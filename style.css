@@ -1,7 +1,12 @@
 h1 {
     font-weight: bold;
+    font-style: italic;
 }
 
 p {
-    color: red;
+    color: magenta;
+}
+
+body {
+    padding: 15%;
 }
